@@ -32,7 +32,7 @@ public with sharing class AccountServiceLayer {
     }
     
     public static void newMethod(){
-        //nothing happens here!
+        String hello = 'hi mom!';
     }
 
     /**
