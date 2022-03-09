@@ -30,6 +30,8 @@ public with sharing class AccountServiceLayer {
             'Account id = and log statement = ' + toLog
         );
     }
+    
+    public static void newMethod(){}
 
     /**
      * @description Changes the account's Shipping Street field to a hardcoded
