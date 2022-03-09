@@ -31,7 +31,9 @@ public with sharing class AccountServiceLayer {
         );
     }
     
-    public static void newMethod(){}
+    public static void newMethod(){
+        //nothing happens here!
+    }
 
     /**
      * @description Changes the account's Shipping Street field to a hardcoded
